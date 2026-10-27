@@ -1,7 +1,7 @@
 # 龙狮e学堂知识库
 
 > 依据《e学堂操作手册》（2025-07-01 新平台上线版）整理 · 2026-10-23
-> 图片已托管至 GitHub 仓库 `Wu-werner/extudy-kb`，使用 raw 永久直链，可直接复制到知识库系统使用。
+> 图片已上传至云端图床（公网直链），可直接复制到知识库系统使用；源码同存 GitHub 仓库 `Wu-werner/extudy-kb`。
 
 ---
 
@@ -19,7 +19,7 @@
 ② 微信端：关注「龙狮e学堂」公众号，点击底部「学习入口」
 ③ APP端：各大应用商店搜索下载【易则易知】，在选择组织时输入并选择「龙狮e学堂」即可进入首页（预计9月更名【龙狮e学堂】并上架）
 登录账号密码同上，用户名、密码三个端口一致。
-![三个登录端口](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-4.png)
+![三个登录端口](https://workbuddy-space-static.codebuddy.work/image/1dk0KWvfYLzhgXiQ3S3qtp.png)
 
 ---
 
@@ -39,14 +39,14 @@
 ## 问题：新旧平台主要有哪些变化？
 **回答：**
 主要变化：① 登录入口增至三种；② APP 可在应用商店直接搜索下载；③ 登录账号统一为身份证号；④ 账号自动同步、支持手机号自助改密；⑤ 课程中心与资料中心合并（历史直播回放已迁移至「历史直播」）；⑥ 新增原创活动/作业审核打分；⑦ 通知新增微信服务提醒；⑧ 考试切屏改为自动交卷而非冻结账号；⑨ 人脸识别接入阿里云更精准；⑩ 直播人数无上限；⑪ 支持全域智能搜索；⑫ 客服新增三种登录端在线客服。
-![新旧平台主要变化对比](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-3.png)
+![新旧平台主要变化对比](https://workbuddy-space-static.codebuddy.work/image/X8RFNmei696qQLY9CVBjqz.png)
 
 ---
 
 ## 问题：移动端首页有哪些功能？
 **回答：**
 移动端首页包括：推广页面（公司最新专题学习课程）、核心功能入口（点击进入各模块）、站内公开消息栏、待办事项。
-![移动端首页](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-8.png)
+![移动端首页](https://workbuddy-space-static.codebuddy.work/image/wgc0wP4c6OXByJ97ymfNuQ.png)
 
 ---
 
@@ -54,7 +54,7 @@
 **回答：**
 路径：首页 > 课程中心。可通过搜索框搜索课程；点击右上角「全部课程」进入课程分类页，滑动选择类别筛选课程；可按人气、好评、更新时间排序，也可按已完成/未完成筛选。
 进入课程后显示该课程的积分和学时，多章节课程可通过目录切换章节；课程下方可查看个人学习记录并收藏课程。
-![移动端课程中心](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-9.png)
+![移动端课程中心](https://workbuddy-space-static.codebuddy.work/image/oqNFtRCkKWmRsF75IdlWIi.png)
 
 ---
 
@@ -62,14 +62,14 @@
 **回答：**
 移动端：点击首页「考试中心」→ 默认显示「进行中」考试 → 点击参加考试 → 答题 → 交卷后即可查看考试分数、考试结果、答卷情况。
 电脑端：考试中心汇总所有考试，支持筛选未开始/进行中/已结束；选择进行中的考试点击对应试卷打开。考前页面显示考试时间、次数、题目数、时长、及格分和满分；考试中左侧为答题区、右侧实时显示剩余时间与答题情况；考后展示合格情况和提交历史。
-![考试流程（考前/考中/考后）](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-26.png)
+![考试流程（考前/考中/考后）](https://workbuddy-space-static.codebuddy.work/image/hH9GHRUia2Hhh5zjX6tf9V.png)
 
 ---
 
 ## 问题：人脸识别考试要注意什么？
 **回答：**
 初次参加需要人脸识别的考试，需根据提示进行人脸信息采集；之后每次参加人脸识别验证的考试都以此次照片为准，初次录入请谨慎进行！人脸识别接入阿里云技术，识别度更精准，数据加密、隐私保护。
-![人脸识别](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-12.png)
+![人脸识别](https://workbuddy-space-static.codebuddy.work/image/mcMCrP1kVHJG0dcxMP1J2E.png)
 
 ---
 
@@ -78,7 +78,7 @@
 防切屏仅适用于 APP 端和 PC 端，微信公众号无法参加防切屏考试！
 移动端：考试过程中禁止切换 APP 窗口，切屏次数达到上限后自动交卷，记为当前考试分数，解锁重考需联系平台管理员。接听电话只要不离开考试界面不计切屏，离开则记录。
 电脑端：禁止切换浏览器窗口、禁用鼠标右键；仅含客观题的考试使用键盘也将被视为切屏。切屏达上限后自动交卷记 0 分不合格，如需解锁重考请联系平台管理员，请谨慎操作！
-![防切屏说明](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-13.png)
+![防切屏说明](https://workbuddy-space-static.codebuddy.work/image/2LyQjaZo7T96KNev2b9uNU.png)
 
 ---
 
@@ -86,7 +86,7 @@
 **回答：**
 移动端：进入直播中心，在直播列表页选择要观看的直播；点击右上角可切换直播间、直播回放内容。直播间内：直播介绍查看直播主题，聊天区互动留言，提问区向讲师提问，「往期」查看该直播间历史回放。
 电脑端：可观看进行中的直播、回看已结束的直播、查看未来直播安排；观看过程中可向讲师提问、与其他在线学员互动。
-![直播中心](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-14.png)
+![直播中心](https://workbuddy-space-static.codebuddy.work/image/9k5aagzOOkPxeZ5RkGKiad.png)
 
 ---
 
@@ -99,7 +99,7 @@
 ## 问题：什么是学习地图？
 **回答：**
 学习地图为你提供体系化的培训项目，包括多个单元的课程学习、课后测验、阶段考试、调研、提交作业等。进入后点击要参加的学习地图即可开始；课程页面可查看课程目录和自己的学习记录。
-![学习地图](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-16.png)
+![学习地图](https://workbuddy-space-static.codebuddy.work/image/ItqyCkAxbwQGeSMJKLgOYO.png)
 
 ---
 
@@ -107,28 +107,28 @@
 **回答：**
 路径：首页 > 原创活动/作业 > 选择要提交的作业 > 点击「上传作品」> 根据要求填写作品名称、作品内容、提交附件 > 点击「提交审核」。总部可进行审核打分。
 电脑端的原创活动用于开展专题活动、收集学员作品案例；作品库展示所有学员提交的作品，可搜索查询、积累优秀案例。
-![上传作业](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-17.png)
+![上传作业](https://workbuddy-space-static.codebuddy.work/image/ow9eacd8Kw6jQbrZU8mbxl.png)
 
 ---
 
 ## 问题：个人信息在哪修改？
 **回答：**
 移动端「个人信息维护」中可修改头像、姓名、职级、手机号码、邮箱、密码等；同时可查看所获学时、积分、个人学习数据统计，以及各类学习应用入口。
-![个人信息维护](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-18.png)
+![个人信息维护](https://workbuddy-space-static.codebuddy.work/image/vFthqQZEPpc7IHES0eWrro.png)
 
 ---
 
 ## 问题：电脑端首次登录要注意什么？
 **回答：**
 电脑端登录网址：`dpcs.kmelearning.com`，用户名密码同 APP 端。首次登录需完成 3 个操作：① 使用用户名+密码方式登录；② 按提示修改密码；③ 绑定手机号。
-![电脑端登录](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-20.png)
+![电脑端登录](https://workbuddy-space-static.codebuddy.work/image/g84qNdEepO9SMaeV7JfGo3.jpg)
 
 ---
 
 ## 问题：电脑端首页有哪些功能？
 **回答：**
 顶部导航模块支持快速跳转至首页/课程中心/考试中心/直播中心/在线客服；学习数据速览展示学习数据情况；平台课程目录展示区展示课程；应用快捷入口支持快速切换应用；头条消息推送站内新闻；待办任务区点击任务即可快速跳转。
-![电脑端首页](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-22.png)
+![电脑端首页](https://workbuddy-space-static.codebuddy.work/image/sGFwCIxEhkeDQu4KR1iyGM.png)
 
 ---
 
@@ -137,7 +137,7 @@
 渠道1 服务热线：400-001-5565（紧急情况可联系客服专员：售时 刘老师 18621588292 / 售后 范老师 18621585279）
 渠道2 平台在线客服：PC端点击顶部导航栏「在线客服」，移动端点击首页右下角图标
 渠道3 微信公众号：「龙狮e学堂」公众号设置了自动回复，常见登录问题（如账号密码）可在公众号提问获得解答
-![问题咨询渠道](https://raw.githubusercontent.com/Wu-werner/extudy-kb/main/images/slide-3.png4)
+![问题咨询渠道](https://workbuddy-space-static.codebuddy.work/image/X8RFNmei696qQLY9CVBjqz.png4)
 
 ---
 
